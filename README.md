@@ -31,35 +31,45 @@
 ## مهارت‌ها و ابزارها 🛠️
 
 ### 🌐 Front-End & Web Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canvas_API-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/ShahriarRaza/ShahriarRaza/main/assets/html.gif" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/ShahriarRaza/ShahriarRaza/main/assets/css.gif" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/ShahriarRaza/ShahriarRaza/main/assets/javascript.gif" width="40" height="40" />
+<h3 align="center">⚡ My Animated Tech Stack ⚡</h3>
+
+<p align="center">
+  <!-- HTML5 -->
+  <img src="https://githubusercontent.com" width="50" height="50" alt="HTML5" />&nbsp;
+  <!-- CSS3 -->
+  <img src="https://githubusercontent.com" width="50" height="50" alt="CSS3" />&nbsp;
+  <!-- JavaScript -->
+  <img src="https://githubusercontent.com" width="50" height="50" alt="JavaScript" />&nbsp;
+  <!-- React -->
+  <img src="https://githubusercontent.com" width="50" height="50" alt="React" />&nbsp;
+  <!-- Tailwind CSS -->
+  <img src="https://githubusercontent.com" width="50" height="50" alt="Tailwind" />&nbsp;
 </p>
 
 ### ⚙️ Backend & Core Programming
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <!-- Java -->
+  <img src="https://githubusercontent.com" width="50" height="50" alt="Java" />&nbsp;
+  <!-- Node.js -->
+  <img src="https://githubusercontent.com" width="50" height="50" alt="NodeJS" />&nbsp;
 </p>
 
 ### 🔧 Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <!-- GitHub -->
+  <img src="https://icons8.com" width="50" height="50" alt="GitHub Animated" />
+</p>
+
+<p align="center">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
 
 ## آمار گیت‌هاب من 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zxARYAxz&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zxARYAxz&theme=radical" alt="GitHub Streak" />
 </p>
