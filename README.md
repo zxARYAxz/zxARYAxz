@@ -1,75 +1,120 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&animation=fadeIn" />
-</p>
+<div align="center">
 
-# سلام! به صفحه‌ی من خوش اومدید 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:8A2BE2,50:FF00FF,100:00FFFF&text=Welcome%20To%20My%20Profile&fontColor=ffffff&fontSize=50&animation=fadeIn"/>
 
-## درباره من 👨‍💻
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Front-End+Developer;Full-Stack+Enthusiast;Computer+Engineering+Student;Building+Modern+Web+Experiences" />
 
-* 🎓 دانشجوی **مهندسی کامپیوتر** در **دانشگاه گیلان**
-* 💻 توسعه‌دهنده **فرانت‌اند (Front-End)** و فعال در حوزه **فول‌استک (Full-Stack)**
-* 🚀 علاقه‌مند به یادگیری تکنولوژی‌های جدید و توسعه نرم‌افزار
-* 🎨 دوست‌دار ابزارها و رابط‌های کاربری جذاب و رنگارنگ
+</div>
+
+# 👋 سلام! من آریا هستم
+
+```txt
+> Front-End Developer
+> Full-Stack Enthusiast
+> Computer Engineering Student
+> UI/UX Lover
+```
 
 ---
 
-## راه‌های ارتباطی 🌐
+## 🚀 درباره من
 
-برای ارتباط با من می‌تونید از لینک‌ زیر استفاده کنید. (روی بج کلیک کنید):
+- 🎓 دانشجوی مهندسی کامپیوتر دانشگاه گیلان
+- 💻 توسعه‌دهنده Front-End
+- ⚡ علاقه‌مند به Full-Stack Development
+- 🎨 عاشق طراحی رابط‌های کاربری مدرن
+- 🚀 در حال یادگیری تکنولوژی‌های جدید
 
-<a href="https://t.me/zxaryaxz" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+---
+
+## 🌐 ارتباط با من
+
+<div align="center">
+
+<a href="https://t.me/zxaryaxz">
+<img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=black"/>
 </a>
-<!-- جیمیل -->
-  <a href="mailto:zxaryaxz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+
+<a href="mailto:zxaryaxz@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-FF00FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## مهارت‌ها و ابزارها 🛠️
+## ⚡ Tech Stack
 
-### 🌐 Front-End & Web Technologies
-<h3 align="center">⚡ My Animated Tech Stack ⚡</h3>
+<div align="center">
 
-<p align="center">
-  <!-- HTML5 -->
-  <img src="https://githubusercontent.com" width="50" height="50" alt="HTML5" />&nbsp;
-  <!-- CSS3 -->
-  <img src="https://githubusercontent.com" width="50" height="50" alt="CSS3" />&nbsp;
-  <!-- JavaScript -->
-  <img src="https://githubusercontent.com" width="50" height="50" alt="JavaScript" />&nbsp;
-  <!-- React -->
-  <img src="https://githubusercontent.com" width="50" height="50" alt="React" />&nbsp;
-  <!-- Tailwind CSS -->
-  <img src="https://githubusercontent.com" width="50" height="50" alt="Tailwind" />&nbsp;
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,express,python,java,git,github,vscode,figma&perline=8" />
 
-### ⚙️ Backend & Core Programming
-<p align="left">
-  <!-- Java -->
-  <img src="https://githubusercontent.com" width="50" height="50" alt="Java" />&nbsp;
-  <!-- Node.js -->
-  <img src="https://githubusercontent.com" width="50" height="50" alt="NodeJS" />&nbsp;
-</p>
+</div>
 
-### 🔧 Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <!-- GitHub -->
-  <img src="https://icons8.com" width="50" height="50" alt="GitHub Animated" />
-</p>
+---
 
-<p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+## 🔥 Specialties
 
-## آمار گیت‌هاب من 📊
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zxARYAxz&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zxARYAxz&theme=radical" alt="GitHub Streak" />
-</p>
+<img src="https://img.shields.io/badge/Frontend-00FFFF?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/FullStack-FF00FF?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/UI%2FUX-8A2BE2?style=for-the-badge&logo=figma&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Open_Source-00FF7F?style=for-the-badge&logo=github&logoColor=black"/>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zxARYAxz&show_icons=true&theme=radical" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zxARYAxz&layout=compact&theme=radical" />
+
+</div>
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zxARYAxz&theme=react-dark&hide_border=true" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Front-End+Developer;Full-Stack+Enthusiast;Computer+Engineering+Student" />
+<img src="https://streak-stats.demolab.com?user=zxARYAxz&theme=radical" />
+</div>
+
+---
+
+## 💻 Current Mode
+
+```javascript
+const arya = {
+  role: "Front-End Developer",
+  learning: ["Next.js", "Node.js", "Full Stack"],
+  passion: "Creating futuristic UI",
+  coffee: true,
+  bugs: "sometimes 😅"
+};
+```
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=zxARYAxz&style=for-the-badge&color=blueviolet"/>
+
+### ⚡ Thanks For Visiting ⚡
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8A2BE2,50:FF00FF,100:00FFFF"/>
