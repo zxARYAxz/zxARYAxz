@@ -39,6 +39,11 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Canvas_API-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/ShahriarRaza/ShahriarRaza/main/assets/html.gif" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/ShahriarRaza/ShahriarRaza/main/assets/css.gif" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/ShahriarRaza/ShahriarRaza/main/assets/javascript.gif" width="40" height="40" />
+</p>
 
 ### ⚙️ Backend & Core Programming
 <p align="left">
