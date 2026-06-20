@@ -79,7 +79,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zxARYAxz&layout=compact&theme=radical" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zxARYAxz&layout=compact&theme=radical&hide_fork=true&cache_seconds=0" />
 
 </div>
 ---
