@@ -73,13 +73,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zxARYAxz&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=zxARYAxz&show_icons=true&theme=radical" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zxARYAxz&layout=compact&theme=radical&hide_fork=true&cache_seconds=0" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxARYAxz&layout=compact&theme=radical&hide_fork=true&cache_seconds=0" />
 
 </div>
 ---
