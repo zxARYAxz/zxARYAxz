@@ -72,15 +72,11 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats-zxaryaxz.vercel.app/api?username=zxARYAxz&show_icons=true&theme=radical" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=zxARYAxz&show_icons=true&theme=radical" />
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-stats-zxaryaxz.vercel.app/api/top-langs/?username=zxARYAxz&layout=compact&theme=radical" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxARYAxz&layout=compact&theme=radical&hide_fork=true" />
 </div>
 ---
 
