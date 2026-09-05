@@ -69,18 +69,10 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=zxARYAxz&theme=radical" />
-</div>
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zxARYAxz&theme=react-dark&hide_border=true" />
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Front-End+Developer;Full-Stack+Enthusiast;Computer+Engineering+Student" />
 <img src="https://streak-stats.demolab.com?user=zxARYAxz&theme=radical" />
 </div>
